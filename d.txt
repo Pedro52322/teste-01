@@ -1,1 +1,7 @@
 teste push definitivo
+pasta 1
+altaração 2
+pasta 5 
+pasta 6 
+nova linha 
+segunda nova linha 5
