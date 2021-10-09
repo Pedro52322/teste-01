@@ -1,0 +1,280 @@
+O Texto Completo
+Uso obrigatório - Template para escrita - pronto para uso - baixe-o em seu computador
+
+Adicionalmente ao template disponibilizado anteriormente, segue o detalhamento da Estrutura Obrigatória e do Conteúdo dos Textos Completos:
+
+
+LEIAUTE E FORMATO DAS PÁGINAS DO WORD:
+
+Formato: A4
+Orientação: Retrato
+Margens Superior, Inferior, Direita e Esquerda: 2 cm
+Atenção:
+o documento deverá ser enviado em .doc; .docx ou .odt
+é de responsabilidade da autoria verificar se a versão do texto enviado não está desconfigurada.
+Não serão aceitos os trabalhos enviados em PDF!
+INDIQUE A MODALIDADES DO TRABALHO ACADÊMICO-CIENTÍFICO:
+
+Antes do Eixo Temático, indique se a modalidade é:
+
+a) Pesquisa Concluída
+b) Pesquisa com Resultados Parciais
+c) Relato de Experiência
+
+Formatação do Eixo Temático:
+Posição: Margem Superior da Página
+Alinhamento: À Direita
+Espaçamento: Simples
+Fonte: Arial; Tamanho 10 pt; em Caixa Alta (Todas as Letras em Maiúsculo); em Negrito;
+Conteúdo da Modalidade:
+Indicação da Modalidade
+Exemplo:
+PESQUISA CONCLUÍDA
+
+
+INDIQUE O EIXO TEMÁTICO:
+
+Antes do título, indique o nome do Eixo Temático ao qual o seu trabalho predominantemente pertence.
+
+Os Eixos Temáticos
+Consulte a Lista Completa
+Formatação do Eixo Temático:
+Posição: Margem Superior da Página
+Alinhamento: À Direita
+Espaçamento: Simples
+Fonte: Arial; Tamanho 10 pt; em Caixa Alta (Todas as Letras em Maiúsculo); em Negrito;
+Conteúdo do Eixo Temático:
+Número do Eixo (duas casas decimais)
+Nome do Eixo EM CAIXA ALTA
+Exemplo:
+EIXO 06: FAMÍLIAS
+
+TÍTULO:
+
+Formatação do Título:
+(Saltando uma linha após o eixo temático explicitado)
+Alinhamento: Centralizado
+Espaçamento: Simples
+Fonte: Arial; Tamanho 14 pt; em Caixa Alta (Todas as Letras em Maiúsculo); em Negrito;
+Número de Palavras do Título:
+15 palavras (incluindo preposições, artigos e conjunções)
+
+NOME DO/S AUTOR/ES:
+(Saltando uma linha após o título)
+
+Formatação do Nome dos Autores:
+Nome do autor e coautores completos (e por extenso);
+ÚLTIMO SOBRENOME EM CAIXA ALTA.
+Exemplo: Abgail de Albuquerque de Souza BASTOS
+Alinhamento: À Direita
+Espaçamento: Simples
+Fonte: Arial; Tamanho 11 pt
+Letras Maiúsculas e Minúsculas
+*ATENÇÃO*:
+Número máximo de autores, por trabalho: QUATRO AUTORES.
+Número máximo de submissões como primeiro/a autor/a, inscrito no evento: UM TRABALHO.
+Número máximo de submissões como co-autor/a, inscrito no evento: DOIS TRABALHOS ACADÊMICO-CIENTÍFICOS. (EXCEÇÕES: ÀQUELES QUE FOREM ORIENTADORES DOS TRABALHOS. Nesses casos, indique se é orientador/a, em campo específico).
+Assim:
+-> o número máximo de submissões, por inscrito, é três trabalhos acadêmico-científicos.
+-> Ao menos um autor deve estar inscrito no evento.
+IDENTIFICAÇÃO DA INSTITUIÇÃO:
+
+Formatação da Identificação da Instituição:
+Alinhamento: À Direita
+Recuo: 8 cm da esquerda
+Fonte: Arial; Tamanho 10 pt
+Letras Maiúsculas e Minúsculas
+Conteúdo da Identificação da Instituição (Separados por ponto e vírgula)
+Curso (Graduação ou Especialização) ou Programa (Pós-Graduação Stricto Sensu)
+Nome da Instituição (Universidade; Escola; Instituição Especializada; Secretaria; etc.)
+Unidade da Federação 
+Agência de Fomento (se houver)
+Exemplo: 
+Curso de Licenciatura em Educação Especial; Universidade Federal de São Carlos - UFSCar; Estado de São Paulo; FAPESP.
+
+O RESUMO
+
+Formatação e Extensão:
+Alinhamento: Justificado
+Espaçamento: Simples
+Fonte: Arial, Tamanho 12
+Número de Caracteres:
+Mínimo: 1.000 caracteres
+Máximo: 1.500 caracteres
+Conteúdo Principal:
+Tema do estudo
+Problema de pesquisa
+Objetivo(s).
+Método
+Observação: para Relatos de Experiência, esse item é facultativo
+Principais Resultados
+Considerações
+Palavras-Chave:
+Três palavras-chave que não contenham no título
+Identificar os termos no vocabulário do Thesaurus Brasileiro da Educação (link externo).
+Termos separados por ponto e vírgula, seguidos de espaço
+Todos com iniciais e letras minúsculas
+Exemplo:
+Palavras-chave: termo 1; termo 2; termo 3.
+CORPO DO TEXTO:
+
+Formatação do Corpo do Texto:
+Fonte: Arial
+Tamanho: 12 pt
+Alinhamento: Justificado
+Espaçamento entre linhas: 1,5 cm
+Recuo dos Parágrafos: 1,5 cm
+Extensão:
+Ter entre 20 e 30 mil caracteres, incluindo:
+espaço
+as referências bibliográficas
+eventuais notas
+Importante: as notas que geralmente são inseridas em rodapé, deverão ser inseridas após as referências bibliográficas.
+Estrutura do Conteúdo:
+Introdução
+Problema de Pesquisa
+Objetivos
+Método
+Observação: para Relatos de Experiência, Para os relatos de experiência esse item deve ser substituído pela descrição do desenvolvimento  - da prática.
+Resultados
+Observação: Para pesquisas em andamento, devem ser descritos os resultados parciais.
+Considerações
+Referências
+Normas Técnicas Gerais:
+
+> Serão aceitos para avaliação APENAS textos redigidos nas normas da American Psychological Association [APA] 6ª edição (2010).
+> Não serão considerados textos redigidos nas normas da ABNT.
+
+Palavras em Negrito, Itálico ou Sublinhado?
+
+Negrito: somente em títulos ou subtítulos.
+Itálico: para ressaltar expressões ou palavras estrangeiras
+Sublinhado: não utilizar! essa configuração detona ser um "pseudo hiperlink"
+Como apresento o texto citações literais de outros autores?
+
+Quando uso aspas?
+Para trechos com até 40 palavras:
+Deve estar no corpo do parágrafo.
+Conforme indica Omote (1983), "os resultados evidenciaram que os sujeitos perceberam os estados emocionais e subjetivos negativos mais freqüentemente quando as crianças eram caracterizadas como 'deficientes mentais' que quando eram caracterizadas como 'normais'." (p. 91).
+Quando uso separação e recuo de parágrafo?
+Para citações com mais que 40 palavras:
+Destacar em parágrafo isolado, saltando uma linha do texto precedente;
+Usar recuo à esquerda de quatro centímetros
+Alinhamento: Justificado
+Espaçamento: Simples
+Fonte: Arial, Tamanho 11 pt.
+Não aparecer entre aspas e nem em itálico.
+Pernambuco (1994) indica que uma prática significa
+
+estar trabalhando as mediações entre proposições oriundas de diferentes conhecimentos científicos que intervêm sobre a situação concreta que se estuda. Ao mesmo tempo, a partir dessa interação como o faz, novas questões são colocadas, novos conhecimentos e novas organizações de antigos conhecimentos se tornam necessários (p. 92).
+Como faço a referência dos autores no corpo do texto, então?
+
+Quando é único autor/a:
+Último sobrenome do/a autor/a.
+Somente com a primeira letra em maiúsculo.
+Quando a referência compõe o corpo do texto do parágrafo:
+O último sobrenome do autor mantém-se fora de parênteses.
+O ano da publicação deve ser apresentado dentro de parênteses.  
+Exemplo: comprovando-se a constatação de Moura (1979).
+Quando a referência antecede ou segue uma citação literal ou ideias em comum:
+O último sobrenome do/a autor/a, seguido do ano da publicação, devem ser apresentados separados por vírgula, dentro de parênteses. 
+Quando o trecho referir-se a autores com ideias em comum, os autores são separados por ponto e vírgula.
+Exemplo: [...] Identificou-se em vários estudos essa concepção (Farris, 1979; Vertuan, 1989).
+Quando a citação é de dois autores:
+Fora dos parênteses: Barbosa e Marinho-Araújo (2010);
+Dentro dos parênteses: (Barbosa & Marinho-Araújo, 2010).
+Quando a citação é de até cinco autores no texto:
+A Primeira citação: (Carnevale, Alexander, Davis, Rennick, & Troini, 2006);
+Demais citações dos mesmos autores e obra: Carnevale et al. (2006).
+Quando a citação é de mais de cinco autores no texto:
+Cassins et al. (2007, pp. 5-6).
+Quando a citação refere-se a autoria institucional que contém sigla:
+Primeira citação: American Psychological Association [APA] (2010);
+Demais citações do mesmo autor e obra: APA (2010).
+Quando a citação refere-se a documentos legislativos e normas técnicas no texto:
+Lei nº 13.146 (2015) ou (Lei nº 13.146, 2015).
+As Referências:
+Obedecerão as normas da APA de 2010.
+Serão arroladas ao final do texto com o título Referências, em negrito.
+Esta lista de fontes (livros, artigos, etc.) deve aparecer:
+em ordem alfabética pelo sobrenome do autor,
+sem numeração,
+sem espaçamento entre linhas,
+sem recuo, com deslocamento de 0,75 cm,
+espaçamento depois de 12 pt
+justificado.
+ORIENTAÇÕES E EXEMPLOS:
+
+LIVROS
+
+Indicar Sobrenome, N. A. (nomes do autor abreviados em caixa alta e sobrenome somente com a primeira letra maiúscula) (Ano entre parênteses após o nome do autor). Título e subtítulo (em itálico) (Indicar o número da edição, se houver, colocar ponto, escrever ed. em caixa baixa) Cidade: Editora. 
+
+Glat, R. (1993). Somos iguais a vocês: Depoimento de mulheres com deficiência mental. Rio de Janeiro: Agir.
+
+Telford, C. W., & Sawrey, J. M. (1993). O indivíduo excepcional (4a ed.). Rio de Janeiro: Zahar.
+
+Obras com mais de sete autores:
+Após o sobrenome do sexto autor, inserir três pontos e o nome do último autor da obra. 
+
+Cassins, A. M., Paula Junior, E. P. de, Voloschen, F. D., Conti, J., Haro, M. E. N., Escobar, M. ... Schmidt, V. (2007). Manual de Psicologia Escolar/Educacional (Coletânea Conexão Psi). Curitiba: Gráfica e Editora Unificado.
+
+Obras com autor desconhecido, a entrada é feita pela palavra “Anônimo”:
+Anônimo (1993). Diagnóstico do setor editorial brasileiro (64 p.). São Paulo: Câmara Brasileira do Livro.
+
+Autoria institucional:
+Nome da Instituição por extenso (Ano). Título: Subtítulo. Local: Editora. 
+
+Instituto Brasileiro de Geografia e Estatística (2015). Perfil dos estados e dos municípios brasileiros: 2014. Rio de Janeiro: IBGE.
+
+
+PERIÓDICOS
+Sobrenome, N. (Ano). Título de artigo. Título da Revista em itálico, cidade, volume (número), páginas. 
+
+Marques, L. P. (1995). O filho sonhado e o filho real. Revista Brasileira de Educação Especial, Piracicaba, 2(3), 121-125.
+
+ARTIGOS DE JORNAL
+Sobrenome, N. (Ano, mês e dia de publicação). A Título do artigo. Título do Jornal em itálico, Cidade, número/caderno/seção, páginas. 
+
+Pinto, J. N. (1975, janeiro 08). Programa explora tema raro na TV. O Estado de São Paulo, São Paulo, Caderno 2, p. 7.
+
+DISSERTAÇÕES E TESES
+Autor, Ano, título e subtítulo em itálico, tese ou dissertação acompanhada da titulação entre parênteses, instituto, departamento, universidade, cidade, estado, país
+
+Manzini, E. J. (1995). Formas de raciocínio apresentadas por adolescentes considerados deficientes mentais: Identificação através do estudo de interações verbais (Tese de Doutorado). Instituto de Psicologia, Universidade de São Paulo, São Paulo, SP, Brasil.
+
+MEIO ELETRÔNICO OU INTERNET
+Artigo em jornal científico:
+Kelly, R. (1996). Eletronic publishing at APS: Its not just online journalism. APS News Online, Los Angeles. Recuperado em 25 de Novembro de 1998 de http://www.aps.org/apsnews/1196/11965.html.
+
+Trabalho em congresso:
+Sobrenome, N. (ano, mês de publicação). Título do trabalho. Anais do Nome completo do evento em itálico, cidade, estado, país, número do evento. 
+
+Silva, R. N., & Oliveira, R. (1996). Os limites pedagógicos do paradigma da qualidade total na educação. Anais do Congresso de Iniciação Científica da UFPe, Recife, Brasil, 4. Recuperado em 21 de Janeiro de 1997 de http://www.propesq.ufpe.br/anais/educ/ce04..htm.
+
+Documentos Jurídicos, normas contábeis e normas técnicas:
+Lei nº 13.146, de 06 de julho de 2015. Institui a Lei Brasileira de Inclusão da Pessoa com Deficiência (Estatuto da Pessoa com Deficiência). Recuperado de http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm.
+
+Normas técnicas:
+ABNT NBR 6023, de 29 de setembro de 2002. Informação e documentação – Referências – Elaboração. Rio de Janeiro: Associação Brasileira de Normas Técnicas.
+
+ACESSIBILIDADE (OBRIGATÓRIO)
+
+Figuras e Gráficos:
+Título: Justificado, Fonte Arial, Tamanho 11 pt
+Figura 01 (Em negrito): Título da Figura (Sem negrito)
+Gráfico 01 (Em negrito): Título do Gráfico (Sem negrito)
+Descrever as imagens, utilizando-se da ferramenta de texto alternativo:
+Sobre a imagem, clique no botão contrário “Editar Texto Alt”.
+No canto direito, aparecerá uma caixa onde você poderá descrever a figura.
+A quantidade de caracteres para essa descrição não será contabilizada no total de caracteres permitidos para a submissão de trabalhos.
+
+Tabelas e Quadros:
+Título: Justificado, Fonte Arial, Tamanho 11 pt
+Tabela 01 (Em negrito): Título da Tabela (Sem negrito)
+Dispositivo com dados predominantemente numéricos.
+Quadro 01 (Em negrito): Título do Gráfico (Sem negrito) 
+Dispositivo com dados predominantemente textuais. 
+Atenção: Evitar tabelas e quadros com mais de cinco colunas e dez linhas.
+Notas:
+As notas que, frequentemente são colocadas em rodapé da página, deverão ser inseridas após as referências bibliográficas, respeitando-se a mesma sequência numérica do texto.
+ATENÇÃO: A quantidade de caracteres das notas é contabilizada na quantidade de caracteres total do texto.
