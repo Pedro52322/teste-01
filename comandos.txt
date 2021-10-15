@@ -1,0 +1,16 @@
+primeiro passo install pyzabbix 
+
+pip install pyzabbix
+
+vim hostgroup.py
+
+docker
+
+docker ps 
+
+https://www.zabbix.com/documentation/current/manual/api
+
+
+
+
+
